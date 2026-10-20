@@ -11,7 +11,7 @@ body {
 
 .header {
   height: 30vh;
-  background-color: #3b82f6;
+  background-color: #4a154b; /* Темно-фіолетовий */
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -20,7 +20,7 @@ body {
 
 .main {
   height: 40vh;
-  background-color: #4da655;
+  background-color: #0d9488; /* Бірюзовий */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -28,7 +28,7 @@ body {
 
 .footer {
   height: 30vh;
-  background-color: #f5c242;
+  background-color: #e11d48; /* Коралово-червоний */
   display: flex;
   align-items: center;
   justify-content: flex-end;
